@@ -1,7 +1,7 @@
 # The Street of Crocodiles
 
-[Version 01](https://eleventhirty.github.io/crocodiles/index.html)
+[Version 01](https://jingles27.github.io/Crocodiles/Crocodiles1.html)
 
-[Version 02](https://eleventhirty.github.io/crocodiles/index_two.html)
+[Version 02](https://jingles27.github.io/Crocodiles/Crocodiles2.html)
 
-[Version 03](https://eleventhirty.github.io/crocodiles/index_final.html)
+[Version 03](https://jingles27.github.io/Crocodiles/Crocodiles3.html)
